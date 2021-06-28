@@ -1,0 +1,42 @@
+h1 {
+    font-size : 25px;
+    text-align : center;
+}
+
+#title {
+    background-color : skyblue;
+    padding-top : 10px;
+    padding-bottom : 10px;
+}
+
+a {
+    font-size : 17.5px;
+}
+
+#linkList {
+    display : none;
+    margin-top : 5px;
+    list-style : none;
+    text-align : center;
+    padding-left : 0px;
+}
+
+#linkList > li {
+    text-align : center;
+    margin-bottom : 10px;
+}
+
+ul[id^='linkList_2021_'] {
+    display : none;
+    margin-top : 5px;
+    list-style : none;
+    text-align : center;
+    padding-left : 0px;
+}
+
+ul[id^='linkList_2021_'] > li {
+    text-align : center;
+    margin-bottom : 10px;
+}
+
+
